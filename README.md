@@ -1,29 +1,33 @@
-### Task: Parse list with data attributes
+# Parse list with data attributes
 
-Sort list by salary in descending order.
-Get an array of employees. Write two functions: 
-- first, which sorts the list by salary from data attributes
-- second, which returns an array of objects, where objects are employees.
+### Description
 
-The schema for the employee:
-```
-{
-  name, 
-  position,
-  salary,
-  age
-}
-```
+- Sorted list by salary in descending order and got an array of employees
+
+### Stack
+
+- HTML (BEM)
+- CSS
+- JS
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcek
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/parse_list/)
+
+### Reference Image
 
 Employees list:
 
-![Preview](./src/images/preview.png)
+<img src="./src/images/preview.png" alt="reference image" width="200px" />
 
 Expected result after soring:
 
-![Result](./src/images/result.png)
-
-
-## Demo Links
-
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_task_parse_list_DOM/)
+<img src="./src/images/result.png" alt="reference image" width="200px" />
