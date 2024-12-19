@@ -20,7 +20,7 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/parse_list/)
+- [Demo](https://AndriiZakharenko.github.io/parse-list/)
 
 ### Reference Image
 
