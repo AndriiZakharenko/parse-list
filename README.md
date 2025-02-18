@@ -1,33 +1,26 @@
 # Parse list with data attributes
 
-### Description
+## 🎮 About the Project
+In this project, the goal was to parse a list of employees, sort them by their salary in descending order, and extract an array of sorted employees. This was achieved by using data attributes and sorting logic to process and display the information.
 
-- Sorted list by salary in descending order and got an array of employees
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (Basic styling)
+- **JavaScript** (Sorting and data manipulation)
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Parcel** – Web application bundler  
 
-- HTML (BEM)
-- CSS
-- JS
+## 📌 Features
+✅ Sorted the list of employees by salary in descending order  
+✅ Extracted and displayed an array of sorted employees based on data attributes  
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/parse-list/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Parcel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/parse-list/)
-
-### Reference Image
-
-Employees list:
-
-<img src="./src/images/preview.png" alt="reference image" width="200px" />
-
-Expected result after soring:
-
-<img src="./src/images/result.png" alt="reference image" width="200px" />
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_task_parse_list_DOM)
